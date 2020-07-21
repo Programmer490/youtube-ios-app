@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3552E29524C77409002A52A3 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3552E29424C77409002A52A3 /* Constants.swift */; };
+		3552E29724C77688002A52A3 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3552E29624C77688002A52A3 /* Video.swift */; };
+		3552E29924C776FA002A52A3 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3552E29824C776FA002A52A3 /* Model.swift */; };
 		35AF995724C6BA9900E800EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AF995624C6BA9900E800EB /* AppDelegate.swift */; };
 		35AF995924C6BA9900E800EB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AF995824C6BA9900E800EB /* SceneDelegate.swift */; };
 		35AF995B24C6BA9900E800EB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AF995A24C6BA9900E800EB /* ViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3552E29424C77409002A52A3 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		3552E29624C77688002A52A3 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		3552E29824C776FA002A52A3 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		35AF995324C6BA9900E800EB /* YouTube-iOS-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "YouTube-iOS-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		35AF995624C6BA9900E800EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		35AF995824C6BA9900E800EB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +69,9 @@
 				35AF995F24C6BA9B00E800EB /* Assets.xcassets */,
 				35AF996124C6BA9B00E800EB /* LaunchScreen.storyboard */,
 				35AF996424C6BA9B00E800EB /* Info.plist */,
+				3552E29424C77409002A52A3 /* Constants.swift */,
+				3552E29624C77688002A52A3 /* Video.swift */,
+				3552E29824C776FA002A52A3 /* Model.swift */,
 			);
 			path = "YouTube-iOS-App";
 			sourceTree = "<group>";
@@ -141,6 +150,9 @@
 				35AF995B24C6BA9900E800EB /* ViewController.swift in Sources */,
 				35AF995724C6BA9900E800EB /* AppDelegate.swift in Sources */,
 				35AF995924C6BA9900E800EB /* SceneDelegate.swift in Sources */,
+				3552E29924C776FA002A52A3 /* Model.swift in Sources */,
+				3552E29524C77409002A52A3 /* Constants.swift in Sources */,
+				3552E29724C77688002A52A3 /* Video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
