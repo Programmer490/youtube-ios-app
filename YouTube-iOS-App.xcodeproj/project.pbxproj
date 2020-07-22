@@ -11,6 +11,7 @@
 		3552E29724C77688002A52A3 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3552E29624C77688002A52A3 /* Video.swift */; };
 		3552E29924C776FA002A52A3 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3552E29824C776FA002A52A3 /* Model.swift */; };
 		3552E29B24C77DA4002A52A3 /* Constants-Template.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3552E29A24C77DA4002A52A3 /* Constants-Template.swift */; };
+		3552E29D24C7A8C2002A52A3 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3552E29C24C7A8C2002A52A3 /* Response.swift */; };
 		35AF995724C6BA9900E800EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AF995624C6BA9900E800EB /* AppDelegate.swift */; };
 		35AF995924C6BA9900E800EB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AF995824C6BA9900E800EB /* SceneDelegate.swift */; };
 		35AF995B24C6BA9900E800EB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AF995A24C6BA9900E800EB /* ViewController.swift */; };
@@ -24,6 +25,7 @@
 		3552E29624C77688002A52A3 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		3552E29824C776FA002A52A3 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		3552E29A24C77DA4002A52A3 /* Constants-Template.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Constants-Template.swift"; sourceTree = "<group>"; };
+		3552E29C24C7A8C2002A52A3 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		35AF995324C6BA9900E800EB /* YouTube-iOS-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "YouTube-iOS-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		35AF995624C6BA9900E800EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		35AF995824C6BA9900E800EB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				3552E29A24C77DA4002A52A3 /* Constants-Template.swift */,
 				3552E29624C77688002A52A3 /* Video.swift */,
 				3552E29824C776FA002A52A3 /* Model.swift */,
+				3552E29C24C7A8C2002A52A3 /* Response.swift */,
 			);
 			path = "YouTube-iOS-App";
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3552E29D24C7A8C2002A52A3 /* Response.swift in Sources */,
 				35AF995B24C6BA9900E800EB /* ViewController.swift in Sources */,
 				35AF995724C6BA9900E800EB /* AppDelegate.swift in Sources */,
 				35AF995924C6BA9900E800EB /* SceneDelegate.swift in Sources */,
